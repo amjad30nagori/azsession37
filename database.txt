@@ -1,3 +1,0 @@
-email,subject,message
-dsafasdf@asdfjasd.com,ajldkfjlasdf,jaldjlajdsfl
-amjad30nagori@gmail.com,Contact me,lkajdfljasldfjl
